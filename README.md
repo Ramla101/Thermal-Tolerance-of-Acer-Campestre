@@ -34,11 +34,11 @@ Used in generating thermal response curves of PSII.
 
 Key thresholds (Tcrit and T₅₀) extracted using nonlinear regression and breakpoint analysis.
 
-Values were further analyzed using PCA, clustering, and multivariate statistics to assess the effects of hydration and trial conditions.
+Values were further analyzed using LLM, PCA, clustering, and multivariate statistics to assess the effects of hydration and trial conditions.
 
-Data collected using a standard PAM fluorometer under consistent protocols.
+Data collected using a OSP5+ fluorometer under consistent protocols.
 
-Each temperature point typically includes replicate measurements.
+Each temperature point includes replicate measurements.
 
 Outliers and anomalies (if any) were handled during preprocessing in R.
 
